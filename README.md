@@ -1,4 +1,4 @@
 enigma.breakout
 ===============
 
-Breakout close by indie Enigma Studio
+Breakout clone by indie Enigma Studio

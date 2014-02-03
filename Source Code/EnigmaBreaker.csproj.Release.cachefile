@@ -1,0 +1,47 @@
+Content\gamefont.xnb
+Content\menufont.xnb
+Content\gameoverfont.xnb
+Content\ingamefont.xnb
+Content\background.xnb
+Content\blank.xnb
+Content\ball.xnb
+Content\gamemenuscreen.xnb
+Content\gameupperscreen.xnb
+Content\paddle.xnb
+Content\brick.xnb
+Content\playscreen.xnb
+Content\gameover.xnb
+Content\powerup_meteor.xnb
+Content\powerup_paddleinc.xnb
+Content\powerup_paddledec.xnb
+Content\powerup_speeddown.xnb
+Content\powerup_speedup.xnb
+Content\enigma_studio.xnb
+Content\logo_background.xnb
+Content\spot.xnb
+Content\gear.xnb
+Content\messageBox_bg.xnb
+Content\Levels\4.xnb
+Content\Levels\2.xnb
+Content\Levels\3.xnb
+Content\Levels\1.xnb
+Content\Levels\5.xnb
+Content\Levels\11.xnb
+Content\Levels\6.xnb
+Content\Levels\7.xnb
+Content\Levels\8.xnb
+Content\Levels\9.xnb
+Content\Levels\10.xnb
+Content\Levels\12.xnb
+Content\Levels\13.xnb
+Content\Levels\14.xnb
+Content\Audio\BallHit.xnb
+Content\Audio\BallLost.xnb
+Content\Audio\BrickHit.xnb
+Content\Audio\OrganicMachine.xnb
+Content\Audio\TearingIn.xnb
+Content\Audio\audio.xgs
+Content\Audio\Wave Bank.xwb
+Content\Audio\Music Bank.xwb
+Content\Audio\Sound Bank.xsb
+LocalDB\BricksDatabase.sdf
